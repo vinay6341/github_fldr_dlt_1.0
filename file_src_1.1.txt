@@ -1,1 +1,2 @@
-learning github basics
+learning github basics"added 1 new line in file_src_1.1"  
+"added 2 new line in file_src_1.1"  
